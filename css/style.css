@@ -310,6 +310,7 @@ textarea {
   .projects__row-img-cont {
     overflow: hidden; }
   .projects__row-img {
+    border:1px solid #333;
     width: 100%;
     display: block;
     object-fit: cover; }
@@ -391,6 +392,7 @@ textarea {
   margin-bottom: 6rem; }
 
 .project-details__showcase-img {
+  border: 1px solid #333;
   width: 100%; }
 
 .project-details__content-main {
