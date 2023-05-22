@@ -310,7 +310,7 @@ textarea {
   .projects__row-img-cont {
     overflow: hidden; }
   .projects__row-img {
-    border:1px solid #333;
+    border:3px solid #717171;
     width: 100%;
     display: block;
     object-fit: cover; }
