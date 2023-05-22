@@ -405,7 +405,7 @@ textarea {
   .project-details__desc-para {
     font-size: 1.8rem;
     line-height: 1.7;
-    color: grey;
+    color: rgb(49, 49, 49);
     margin-bottom: 2rem; }
 
 .project-details__tools-used {
